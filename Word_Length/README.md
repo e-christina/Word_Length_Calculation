@@ -4,7 +4,7 @@ The "Corpus_Preprocessing" folder contains scripts that mainly lemmatize, dedupl
 
 The "Final_Calculation_of_Word_Length_for_All_Corpora" folder contains scripts that process the final output from the "Corpus_Preprocessing" files. 
 
-Academic Vocabulary List (Gardner & Davies, 2014) reqiured no preprcessing apart from coverting it to '.txt'. 
+Academic Vocabulary List (Gardner & Davies, 2014) required no preprocessing apart from converting it to '.txt'. 
 It is available here: https://www.academicvocabulary.info/download.asp
 
 ## Reference 
